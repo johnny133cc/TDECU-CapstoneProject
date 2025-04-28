@@ -1,4 +1,5 @@
 TDECU AI Powered Caption Generation System
+
 📋 Overview
 
 Our capstone team partnered with Texas Dow Employees Credit Union (TDECU), now rebranding as Space City Financial, to help rebuild their LinkedIn presence following a major merger.
