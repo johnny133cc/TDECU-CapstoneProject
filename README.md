@@ -16,7 +16,6 @@ TDECU-Caption-Generation-System/
 │   ├── system_architecture.png   # Diagram showing how the system flows 
 │   ├── stakeholder_list.md       # List of stakeholders and their roles
 │   ├── future_enhancements.md    # Ideas for future upgrades (multi-platform, analytics, A/B testing)
-│   └── security_considerations.md# Notes on compliance, security protocols followed
 ├── flows/
 │   ├── caption_generation_flow.png    # Screenshot/diagram of Power Automate flow
 │   └── flow_descriptions.md           # Brief descriptions of what each flow does
