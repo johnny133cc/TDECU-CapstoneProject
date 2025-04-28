@@ -19,9 +19,6 @@ TDECU-Caption-Generation-System/
 ├── flows/
 │   ├── caption_generation_flow.png    # Screenshot/diagram of Power Automate flow
 │   └── flow_descriptions.md           # Brief descriptions of what each flow does
-├── sharepoint/
-│   ├── repository_setup.md        # How the SharePoint caption repository was set up
-│   └── user_access_guidelines.md  # Who can access, post, and manage captions
 ├── ai_model/
 │   ├── copilot_prompts.md             # Simple example prompts/templates used
 │   ├── detailed_prompt_instructions.md # Full detailed instruction prompt fed into Copilot
