@@ -1,6 +1,6 @@
 # Project Summary
 
-## Overview
+## 📋 Overview
 
 Our capstone project partnered with Texas Dow Employees Credit Union (TDECU), now rebranding as Space City Financial, to address challenges related to their brand transition following a merger with Space City Credit Union. The merger resulted in a significant loss of LinkedIn visibility due to the creation of a new company page with substantially fewer followers than the original.
 
