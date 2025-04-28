@@ -32,6 +32,7 @@ TDECU-Caption-Generation-System/
 │   ├── notification_example.png    # Example notification employees receive
 │   └── sharepoint_access_view.png  # What the SharePoint page looks like
 
+```
 
 ## 🚀 Features
 
