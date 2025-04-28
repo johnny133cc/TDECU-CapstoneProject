@@ -24,9 +24,9 @@ TDECU-Caption-Generation-System/
 │   ├── detailed_prompt_instructions.md # Full detailed instruction prompt fed into Copilot
 │   └── copilot_usage_notes.md         # Integration and usage notes for Copilot Studio AI Agent
 ├── screenshots/
-│   ├── homepage.png                # How the system looks to employees
+│   ├── flow_trigger_view.png       # How the document upload page looks to employees
 │   ├── notification_example.png    # Example notification employees receive
-│   └── sharepoint_access_view.png  # What the SharePoint page looks like
+│   └── sharepoint_list_view.png  # What the SharePoint page looks like
 
 ```
 ## 📊 System Flow Overview
