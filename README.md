@@ -7,6 +7,8 @@ We developed an AI-powered caption generation system that streamlines social med
 
 ## 📁 Project Folder Structure
 
+```graphql
+
 TDECU-Caption-Generation-System/
 ├── README.md
 ├── docs/
