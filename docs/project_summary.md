@@ -6,38 +6,61 @@ Our capstone project partnered with Texas Dow Employees Credit Union (TDECU), no
 
 To support TDECU’s goal of rebuilding their social media presence while maintaining brand consistency and compliance, we developed an AI-powered caption generation system. This system leverages approved content from TDECU’s internal intranet (“The Vault”), press releases, and blogs to automatically create compliant, on-brand social media captions. Employees access the captions via a centralized SharePoint repository, and automated notifications encourage active employee participation in content sharing.
 
-## Key Features
+## 🚀 Key Features
 
-- **Intranet Content Integration:** Pulls from existing approved internal content sources to ensure brand alignment.
-- **Automated Caption Generation:** Uses AI to produce social media captions that adhere to brand voice and compliance standards.
-- **Centralized Repository:** Captions are stored in SharePoint for easy employee access.
-- **Notification System:** Automated alerts prompt employees to share new content, increasing engagement.
-- **Security and Compliance:** The system operates strictly within TDECU’s security protocols and uses only public or communications-approved content.
+Intranet Content Integration: Pulls approved content from TDECU's intranet ("The Vault"), press releases, and blogs.
 
-## Stakeholder Collaboration
+Automated Caption Generation: AI-driven captions that are compliant with brand voice and style.
 
-Successful development involved close collaboration with TDECU stakeholders, including:
+Centralized Repository: Captions stored in SharePoint for easy employee access and sharing.
 
-- Marketing President (Project Lead)
-- Principal, Technology Innovation & Executive Support (Technical Advisor)
-- Technology Program Manager (Access and Communication Liaison)
+Notification System: Automated notifications to encourage employee engagement.
 
-## Business Impact
+Compliance and Security: Strict use of public and communications-approved content only.
 
-This solution is designed to:
+## 🏢 Stakeholders Collaboration
 
-- Increase LinkedIn followers, impressions, and employee sharing rates.
-- Enhance brand visibility and sentiment during a critical rebranding phase.
-- Reduce manual workload on marketing teams by streamlining content creation and distribution.
+Marketing President: Project lead and main point of contact for system testing and feedback.
 
-## Future Enhancements
+Principal, Technology Innovation & Executive Support: Technical advisor for Power Automate and Flow development.
 
-Potential upgrades identified during the project include:
+Technology Program Manager: Access management and communications liaison.
 
-- Expanding caption generation to other social media platforms such as Facebook and Instagram.
-- Developing an analytics dashboard to monitor content performance and engagement.
-- Incorporating recommended images to accompany captions.
-- Implementing A/B testing features to optimize caption effectiveness.
+## 🎯 Business Impact
+
+Expected growth in LinkedIn followers, impressions, and employee content-sharing rates.
+
+Improved brand visibility and sentiment during the rebranding transition.
+
+Streamlined, secure processes that reduce manual work for employees.
+
+## 🔒 Security Considerations
+
+No confidential financial or member information accessed.
+
+Operates fully within TDECU's existing infrastructure and security policies.
+
+All content sources are public-facing or communications-approved.
+
+## 🔮 Future Enhancements
+
+Support for multi-platform caption generation (e.g., Facebook, Instagram).
+
+Engagement analytics dashboard for social media performance tracking.
+
+Recommended images alongside captions.
+
+A/B testing functionality to optimize caption effectiveness.
+
+## 🛠 Tech Stack
+
+Microsoft Power Automate (Flows, Notifications)
+
+SharePoint Online (Caption Repository, Employee Access)
+
+Microsoft 365 Integration (Intranet Data Sources)
+
+AI Language Models (Caption Generation)
 
 ## Conclusion
 
