@@ -30,7 +30,7 @@ TDECU-Caption-Generation-System/
 
 ```
 ## 📊 System Flow Overview
-![Caption Generation System Flow](flows/TDECU_FlowChart.png)
+![Caption Generation System Flow](flows/caption_generation_flow.png)
 
 
 
