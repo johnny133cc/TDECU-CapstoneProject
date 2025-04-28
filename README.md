@@ -17,7 +17,7 @@ TDECU-Caption-Generation-System/
 │   ├── stakeholder_list.md       # List of stakeholders and their roles
 │   ├── future_enhancements.md    # Ideas for future upgrades (multi-platform, analytics, A/B testing)
 ├── flows/
-│   ├── caption_generation_flow.png    # Screenshot/diagram of Power Automate flow
+│   ├── caption_generation_flow.png    # Diagram of Power Automate flow
 │   └── flow_descriptions.md           # Brief descriptions of what each flow does
 ├── ai_model/
 │   ├── copilot_prompts.md             # Simple example prompts/templates used
